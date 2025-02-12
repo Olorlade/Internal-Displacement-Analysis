@@ -108,5 +108,5 @@ o	Average Disaster Displacement Flows- 32779
 # 📌CONCLUSION
 This project highlights the urgent need for proactive measures to tackle both conflict and disaster-induced displacement. By leveraging data analytics, governments and humanitarian organizations can implement sustainable policies that protect vulnerable populations and enhance long-term resilience.
 
-🔗 Explore the Project Dashboard 👉 Project Link
+### 👉Explore the Project Report [here](https://tinyurl.com/nigeriainternaldisplacement)
 
