@@ -31,7 +31,7 @@ The datasets used are sourced from the Global Internal Displacement Database (GI
 1.	Disaster Internal Displacement Data (2013-2023)
 2.	Conflict Internal Displacement Data (2013-2023)
    
-# 🛠️TECH TOOLS
+# 🛠TECH TOOLS
 • Excel → Data cleaning, calculations, and exploratory analysis.
 
 • PostgreSQL → Database management and querying.
@@ -74,7 +74,7 @@ o Average Disaster Displacement Flows- 32779
 
 • Trend Analysis: Disaster displacement peaked around 2022, with a sharp increase in flood-related displacements.
 
-# ⚔️CONFLICT DISPLACEMENT FINDINGS
+# ⚔CONFLICT DISPLACEMENT FINDINGS
 • Key Metrics: 27.9M total displacement flows.
 
 • Demographic Breakdown: 12.6M adults, 5.5M children, 4.6M toddlers, 3.9M adolescents, and 1.3M aged individuals.
