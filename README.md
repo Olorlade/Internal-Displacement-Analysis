@@ -5,6 +5,7 @@
 - [DATA SOURCE](#data-source)
 - [TECH TOOLS](#tech-tools)
 - [DATA PROCESSING AND TRANSFORMATION](#data-processing-and-transformation)
+- [DATA CLEANING](#data-cleaning)
 - [DATA ANALYSIS Descriptive Analysis](#data-analysis-descriptive-analysis)
 - [DISASTER DISPLACEMENT FINDINGS](#disaster-displacement-findings)
 - [CONFLICT DISPLACEMENT FINDINGS](#conflict-displacement-findings)
@@ -48,6 +49,39 @@ The datasets used are sourced from the Global Internal Displacement Database (GI
 • Categorized displacement cases by age, gender, location, and hazard type.
 
 • Developed interactive dashboards for exploratory analysis.
+
+# 🗑️DATA CLEANING
+
+_**Disaster Dataset**_
+
+- No duplicates found in the dataset.
+- Redundant columns removed: ISO3, Event Codes, Event ID, Disaster Internal Displacements.
+- Column headers renamed appropriately:
+*Date of Event → Event Date
+*Displacement Occurred → Displacement Cases
+*Disaster Internal Displacement → Disaster Displacement Flows
+- Missing values:
+Cells/values in the displacement cases have two entries: Preventive and No Preventive Evacuation. The missing values can be detected as Spontaneous Evacuation. These three categories encompass different scenarios under which displacement occurs:
+*Displacement without Preventive Evacuations: Occurs without prior warning.
+*Displacement with Preventive Evacuations: Occurs due to organized measures.
+*Spontaneous Displacement: Occurs due to perceived threats without formal evcuation orders.
+*Standardized datatype for Date and Disaster Displacement Flows.
+
+_**Conflict Dataset**_
+- No duplicates found in the dataset.
+- Redundant columns removed: ISO3, Event Codes, Event ID, Disaster Internal Displacements.
+- Column headers renamed appropriately:
+*Name → Country
+*Conflict Stock Displacement → Internal Displacement People (IDPs)
+*Conflict Internal Displacement → Internal Displacement Flows
+- Age columns renamed appropriately:
+0–4 → Toddlers
+5–11 → Children
+12–17 → Adolescents
+18–59 → Adults
+60+ → Aged
+- Standardized datatype for Date and Disaster Displacement Flows.
+
 
 # 📊DATA ANALYSIS Descriptive Analysis
 Using Excel Calculations and Pivot Tables, the data was summarized as follows
