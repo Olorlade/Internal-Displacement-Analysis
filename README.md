@@ -1,16 +1,16 @@
 # PROJECT TITLE: INTERNAL DISPLACEMENT UPDATE (IDU)- DISASTER & CONFLICT DISPLACEMENT FLOWS
 # 📖TABLE OF CONTENT
 - [PROJECT OVERVIEW](#project-overview)
-- [OBJECTIVES](#OBJECTIVES)
-- [DATA SOURCE](#DATA-SOURCE)
+- [OBJECTIVES](#objectives)
+- [DATA SOURCE](#data-source)
 - [TECH TOOLS](#tech-tools)
-- [DATA PROCESSING AND TRANSFORMATION](#DATA-PROCESSING-AND-TRANSFORMATION)
-- [DATA ANALYSIS Descriptive Analysis](#DATA-ANALYSIS-Descriptive-Analysis)
-- [DISASTER DISPLACEMENT FINDINGS](#DISASTER-DISPLACEMENT-FINDINGS)
-- [CONFLICT DISPLACEMENT FINDINGS](#CONFLICT-DISPLACEMENT-FINDINGS)
-- [INSIGHTS](#INSIGHTS)
-- [RECOMMENDATIONS](#RECOMMENDATIONS)
-- [CONCLUSION](#CONCLUSION)
+- [DATA PROCESSING AND TRANSFORMATION](#data-processing-and-transformation)
+- [DATA ANALYSIS Descriptive Analysis](#data-analysis-descriptive-analysis)
+- [DISASTER DISPLACEMENT FINDINGS](#disaster-displacement-findings)
+- [CONFLICT DISPLACEMENT FINDINGS](#conflict-displacement-findings)
+- [INSIGHTS](#insights)
+- [RECOMMENDATIONS](#recommendations)
+- [CONCLUSION](#conclusion)
 
 # 📌PROJECT OVERVIEW
 This repository contains an in-depth analysis of internal displacement trends in Nigeria caused by both conflicts and disasters from 2013 to 2023. The study leverages structured datasets to derive actionable insights that can support policymakers, humanitarian organizations, and government agencies in addressing internal displacement challenges.
