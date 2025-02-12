@@ -3,7 +3,7 @@
 - [PROJECT OVERVIEW](#PROJECT-OVERVIEW)
 - [OBJECTIVES](#OBJECTIVES)
 - [DATA SOURCE](#DATA-SOURCE)
-- [TECH STACK](#TECH-STACK)
+- [TECH TOOLS](#TECH-TOOLS)
 - [DATA PROCESSING AND TRANSFORMATION](#DATA-PROCESSING-AND-TRANSFORMATION)
 - [DATA ANALYSIS Descriptive Analysis](#DATA-ANALYSIS-Descriptive-Analysis)
 - [DISASTER DISPLACEMENT FINDINGS](#DISASTER-DISPLACEMENT-FINDINGS)
@@ -31,7 +31,7 @@ The datasets used are sourced from the Global Internal Displacement Database (GI
 1.	Disaster Internal Displacement Data (2013-2023)
 2.	Conflict Internal Displacement Data (2013-2023)
    
-# 🛠️TECH STACK
+# 🛠️TECH TOOLS
 •	Excel → Data cleaning, calculations, and exploratory analysis.
 
 •	PostgreSQL → Database management and querying.
