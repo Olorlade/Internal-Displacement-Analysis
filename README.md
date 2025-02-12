@@ -50,7 +50,7 @@ The datasets used are sourced from the Global Internal Displacement Database (GI
 
 • Developed interactive dashboards for exploratory analysis.
 
-# 🗑️DATA CLEANING
+# 🗑DATA CLEANING
 
 _**Disaster Dataset**_
 
@@ -62,10 +62,12 @@ _**Disaster Dataset**_
 *Disaster Internal Displacement → Disaster Displacement Flows
 - Missing values:
 Cells/values in the displacement cases have two entries: Preventive and No Preventive Evacuation. The missing values can be detected as Spontaneous Evacuation. These three categories encompass different scenarios under which displacement occurs:
-*Displacement without Preventive Evacuations: Occurs without prior warning.
-*Displacement with Preventive Evacuations: Occurs due to organized measures.
-*Spontaneous Displacement: Occurs due to perceived threats without formal evcuation orders.
-*Standardized datatype for Date and Disaster Displacement Flows.
+1) Displacement without Preventive Evacuations: Occurs without prior warning.
+
+2) Displacement with Preventive Evacuations: Occurs due to organized measures.
+
+3) Spontaneous Displacement: Occurs due to perceived threats without formal evcuation orders.
+- Standardized datatype for Date and Disaster Displacement Flows.
 
 _**Conflict Dataset**_
 - No duplicates found in the dataset.
@@ -75,11 +77,11 @@ _**Conflict Dataset**_
 *Conflict Stock Displacement → Internal Displacement People (IDPs)
 *Conflict Internal Displacement → Internal Displacement Flows
 - Age columns renamed appropriately:
-0–4 → Toddlers
-5–11 → Children
-12–17 → Adolescents
-18–59 → Adults
-60+ → Aged
+*0–4 → Toddlers
+  *5–11 → Children
+  *12–17 → Adolescents
+  *18–59 → Adults
+  *60+ → Aged
 - Standardized datatype for Date and Disaster Displacement Flows.
 
 
